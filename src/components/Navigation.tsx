@@ -34,7 +34,7 @@ const Navigation = () => {
           {/* Let's Talk Button */}
           <Button 
             variant="outline" 
-            className="border-teal-primary text-teal-primary hover:bg-teal-primary/10 hover:border-teal-glow transition-all duration-300"
+            className="border-teal-primary text-teal-primary hover:bg-teal-primary hover:text-background hover:border-teal-primary transition-all duration-300 hover:shadow-teal"
           >
             Let's Talk →
           </Button>
